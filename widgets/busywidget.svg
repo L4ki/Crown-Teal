@@ -14,13 +14,13 @@
    height="100"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="busywidget.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    version="1.0">
   <sodipodi:namedview
      id="base"
-     pagecolor="#a8a8a8"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      gridtolerance="10000"
@@ -28,9 +28,9 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.2426407"
-     inkscape:cx="67.225621"
-     inkscape:cy="50.378872"
+     inkscape:zoom="1.4915534"
+     inkscape:cx="105.55523"
+     inkscape:cy="28.342018"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -128,7 +128,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
