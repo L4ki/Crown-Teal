@@ -13,7 +13,7 @@
    height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="view.svg">
   <defs
      id="defs8">
@@ -107,21 +107,21 @@
     </filter>
   </defs>
   <sodipodi:namedview
-     pagecolor="#969696"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0.58823529"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="979"
+     inkscape:window-height="976"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="16.562522"
-     inkscape:cy="-12.665431"
+     inkscape:zoom="11.25"
+     inkscape:cx="2.0291887"
+     inkscape:cy="1.5567912"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -149,7 +149,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
